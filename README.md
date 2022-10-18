@@ -6,6 +6,9 @@ It pulls aggregated data from `cov-spectrum.org`; the underlying data is proved 
 
 Latest update: 2022-10-18.
 
+##Binder link:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rquiroga7/SARS-CoV-2-International/HEAD)
+
 ## Growth rates
 ![Growth rates](plots/growth-rate-latest.png)
 
